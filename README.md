@@ -3,20 +3,18 @@
 
 A beautifully animated, interactive love proposal website built with **HTML**, **CSS**, and **JavaScript** to create a magical experience for your loved one. ✨
 
-### 💖 Live Demo
-(https://proposal-rho-sooty.vercel.app/)
+### 💖 Live Demo  
 
----
+(https://proposal-rho-sooty.vercel.app/)
 
 ## 🌟 Features
 
-
-- 🎵 Background romantic music with toggle button
-- 💬 Multiple animated proposal screens
-- 🏃‍♀️ Funny "No" button that runs away
-- 🎆 Confetti fireworks on "Yes"
-- 🌙 Dreamy and romantic visual theme
-- 💖 Heartfelt messages and transitions
+- 🎵 Background romantic music with toggle button  
+- 💬 Multiple animated proposal screens  
+- 🏃‍♀️ Funny "No" button that runs away  
+- 🎆 Confetti fireworks on "Yes"  
+- 🌙 Dreamy and romantic visual theme  
+- 💖 Heartfelt messages and transitions  
 
 ---
 
@@ -29,9 +27,8 @@ A beautifully animated, interactive love proposal website built with **HTML**, *
 ├── index.html        # Main HTML file
 ├── style.css         # Romantic styling & layout
 ├── script.js         # Interactive logic (name, transitions, music)
-└── confetti.min.js   # Fireworks animation (CDN linked)
 
-````
+
 
 ---
 
@@ -43,7 +40,7 @@ A beautifully animated, interactive love proposal website built with **HTML**, *
    cd proposal
 ````
 
-2. **Open `index.html` in browser**
+2. **Open `index.html` in your browser**
 
    ```bash
    open index.html
@@ -51,7 +48,6 @@ A beautifully animated, interactive love proposal website built with **HTML**, *
 
 3. **Or use Live Server in VS Code**
 
----
 
 ## ❤️ How to Customize
 
@@ -60,37 +56,32 @@ A beautifully animated, interactive love proposal website built with **HTML**, *
   ```html
   <source src="your-romantic-music.mp3" type="audio/mpeg" />
   ```
+
 * Edit proposal texts and messages in `index.html`
-* Add more screens by copying and adjusting the `.proposal-screen` divs
-* Add images, gallery, countdown, or gift reveals as desired
+
+* Add more screens by duplicating `.proposal-screen` sections
+
+* Enhance with:
+
+  * 💑 Love journey timeline
+  * 🎁 Gift reveal section
+  * 🖼️ Memory gallery
+  * ⏳ Countdown or surprise timer
 
 ---
 
 ## 📦 Tech Stack
 
 * HTML5
-* CSS3 (with Google Fonts)
-* JavaScript (Vanilla)
-* Confetti via [canvas-confetti](https://www.npmjs.com/package/canvas-confetti)
-
----
-
-## 🌍 Deployment
-
-Deployed using **[Vercel](https://vercel.com/)** for fast, free hosting with a custom shareable link.
-
----
-
-## 📸 Screenshots
-
-![Proposal Screenshot](https://your-screenshot-url.png)
+* CSS3 
+* JavaScript 
 
 ---
 
 ## ✨ Credits
 
 Made with 💘 by \[Your Name]
-Inspired by pure love and code 🌹
+Inspired by love, code, and creativity 🌹
 
 ---
 
@@ -98,3 +89,4 @@ Inspired by pure love and code 🌹
 
 This project is open for **personal, romantic, non-commercial** use only.
 Go surprise your special someone! 💝
+
