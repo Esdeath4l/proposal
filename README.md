@@ -28,7 +28,7 @@ A beautifully animated, interactive love proposal website built with **HTML**, *
 ├── style.css         # Romantic styling & layout
 ├── script.js         # Interactive logic (name, transitions, music)
 
-
+```
 
 ---
 
