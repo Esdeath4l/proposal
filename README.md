@@ -86,6 +86,6 @@ Inspired by love, code, and creativity 🌹
 
 ## 📩 License
 
-This project is open for **personal, romantic, non-commercial** use only.
+This project is open for update and can be used for **personal, non-commercial** .
 Go surprise your special someone! 💝
 
