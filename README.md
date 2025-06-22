@@ -80,7 +80,7 @@ A beautifully animated, interactive love proposal website built with **HTML**, *
 
 ## ✨ Credits
 
-Made with 💘 by \[Your Name]
+Made with 💘 by Ritika
 Inspired by love, code, and creativity 🌹
 
 ---
