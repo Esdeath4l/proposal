@@ -1,23 +1,16 @@
-Here’s a perfect **`README.md`** file for your live romantic proposal website 💖 hosted at [proposal-rho-sooty.vercel.app](https://proposal-rho-sooty.vercel.app):
 
----
-
-```markdown
 # 💌 Romantic Proposal Website
 
 A beautifully animated, interactive love proposal website built with **HTML**, **CSS**, and **JavaScript** to create a magical experience for your loved one. ✨
 
 ### 💖 Live Demo
-[👉 Click here to view the live proposal!](https://proposal-rho-sooty.vercel.app/?name=YourLoveName)
-
-Replace `YourLoveName` with your partner’s name in the URL.  
-Example: `?name=Ritika`
+(https://proposal-rho-sooty.vercel.app/)
 
 ---
 
 ## 🌟 Features
 
-- 📝 Personalized experience using name from URL (`?name=YourName`)
+
 - 🎵 Background romantic music with toggle button
 - 💬 Multiple animated proposal screens
 - 🏃‍♀️ Funny "No" button that runs away
@@ -105,11 +98,3 @@ Inspired by pure love and code 🌹
 
 This project is open for **personal, romantic, non-commercial** use only.
 Go surprise your special someone! 💝
-
-```
-
----
-
-Would you like a version with **screenshots**, a **GitHub badge**, or a **download button**? Let me know and I’ll polish it up! 💘
-```
-
