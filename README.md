@@ -38,8 +38,7 @@ A beautifully animated, interactive love proposal website built with **HTML**, *
    ```bash
    git clone https://github.com/your-username/proposal.git
    cd proposal
-````
-
+   
 2. **Open `index.html` in your browser**
 
    ```bash
